@@ -3,5 +3,10 @@
 		"ip": "185.207.214.14",
 		"port": 1737,
 		"name": "My Land RP"
+	},
+	{
+		"ip": "s1.chance-rp.com",
+		"port": 7777,
+		"name": "Chance RP"
 	}
 ]
