@@ -1,0 +1,17 @@
+{
+    "enabled": true,
+    "clientVersionCode": 1,
+    "URL_GAME_FILES": "https://github.com/CppRwbDev/ChanceRP_Jsons/releases/download/Cache_v1/game.7z",
+    "URL_GAME_FILES_1": "https://github.com/CppRwbDev/ChanceRP_Jsons/releases/download/Cache_v1/client.7z",
+    "URL_SERVERS": "https://raw.githubusercontent.com/CppRwbDev/ChanceRP_Jsons/main/servers.json",
+    "URL_GAME_FILES_DATA": "https://raw.githubusercontent.com/CppRwbDev/ChanceRP_Jsons/main/files.json",
+    "URL_VK": "http://vk.com/",
+    "URL_SITE": "https://t.me/UZBEKISTAN_RP1",
+    "URL_TECH_SUPPORT": "https://t.me/UZBEKISTAN_RP1",
+    "URL_YOUTUBE": "http://www.youtube.com/channel/",
+    "URL_DISCORD": "http://discord.gg/",
+    "URL_TELEGRAM": "https://t.me/UZBEKISTAN_RP_1",
+    "URL_FORUM": "https://t.me/UZBEKISTAN_RP1",
+    "URL_DONATE": "https://t.me/rwbdev",
+    "URL_CLIENT": "http://rwbdev.uz/launchrr.apk"
+}
